@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br><br>🔭I’m currently working in Quality Assurance at Sapient.Pro<br>👯I’m interested in collaborating on projects related to test automation and backend integration<br>🤝I’m looking to deepen my knowledge of advanced backend patterns in Python and JavaScript<br>🌱Currently learning backend development with JavaScript and Python to strengthen technical expertise<br>💬Open to questions about QA workflows, testing tools, and macOS environment setup<br>⚡Fun fact: I use macOS and enjoy breaking code as much as writing it
+Hi there 👋<br><br>🔭I’m currently working as QA at Sapient.Pro<br>👯I’m interested in collaborating on projects related to test automation and backend integration<br>🤝I’m looking to deepen my knowledge of advanced backend patterns in Python and JavaScript<br>🌱Currently learning backend development with JavaScript and Python to strengthen technical expertise<br>💬Open to questions about QA workflows, testing tools, and macOS environment setup<br>⚡Fun fact: I use macOS and enjoy breaking code as much as writing it
 
 
 # 💻 Tech Stack:
